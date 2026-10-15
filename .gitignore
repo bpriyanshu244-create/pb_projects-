@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+data/output/
+*.db
+scraper.log
